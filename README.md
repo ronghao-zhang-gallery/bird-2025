@@ -34,7 +34,7 @@ Underscores separate the four parts; hyphens join words inside a part.
   digits only (`Cooper's Hawk` → `coopers-hawk`, `Black-crowned Night Heron` →
   `black-crowned-night-heron`). Unidentified: `unknown`. Several species in one photo:
   the main one in the name; all of them in the site data.
-- **year**: 4-digit year taken (`2025`).
+- **year**: 4-digit year taken (e.g. `2025`).
 - **place**: short English place name, same style (`central-park`, `jamaica-bay`).
 - Chinese names, full species lists and exact locations live in the site data, not the
   filename.
@@ -52,3 +52,5 @@ Underscores separate the four parts; hyphens join words inside a part.
 
 About 0.5–1.5 MB per photo (large + thumb), so roughly 1,000 photos before the 1 GB
 GitHub Pages limit.
+
+
